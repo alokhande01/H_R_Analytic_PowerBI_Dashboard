@@ -18,7 +18,7 @@ The goal of this dashboard is to help HR teams and management monitor employee r
 ## 📸 Dashboard Preview
 Here is a screenshot of the HR Analytics Power BI dashboard:
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard]()
 
 ---
 
